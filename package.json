@@ -1,0 +1,9 @@
+{
+  "name": "messenger-app-backend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+  }
+}
